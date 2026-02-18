@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as Data Scientist at Grupo Bimbo<br>📓 I'm currently teaching at UNAM, Faculty of Science<br>📈 I´m currently looking to help in high impact data products
+🔭 I'm a mathematician graduated in 2023 (UNAM)<br>📓 I'm currently finish a master in Computer Science at CIMAT (Centro de Investigación en Matemáticas)<br>📈
 
 
 ## 🌐 Socials:

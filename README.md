@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a mathematician graduated in 2023 (UNAM)<br>📓 I'm currently finish a master in Computer Science at CIMAT (Centro de Investigación en Matemáticas)<br>
+🔭 I'm a mathematician graduated in 2023 (UNAM)<br>📓 I'm currently finishing a master in Computer Science at CIMAT (Centro de Investigación en Matemáticas)<br>
 
 
 ## 🌐 Socials:
